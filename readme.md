@@ -18,8 +18,6 @@ GameRoute is a network diagnostic tool that bridges the gap between low-level sy
 
 ## 📦 Installation & Setup
 
-## 📦 Installation & Setup
-
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/BeytullahCaglayan/GameRoute-API.git](https://github.com/BeytullahCaglayan/GameRoute-API.git)
